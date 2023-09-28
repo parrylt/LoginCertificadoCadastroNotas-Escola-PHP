@@ -1,0 +1,31 @@
+body{
+    background-image: url("17.jpg");
+    background-size: cover;
+}
+
+#titulo{
+    position: absolute; 
+    top: 9%; 
+    left: 38%;
+    right: 38%; 
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto{
+    position: absolute; 
+    top: 25%; 
+    left: 30%; 
+    right: 30%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#btnChecar{
+    position: absolute; 
+    top: 75%; 
+    left: 40%;
+    right: 40%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}

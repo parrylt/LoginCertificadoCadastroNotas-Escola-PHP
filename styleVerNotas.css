@@ -1,0 +1,32 @@
+body{
+    background-image: url("17.jpg");
+    background-size: cover;
+}
+
+#titulo{
+    position: absolute; 
+    top: 9%; 
+    left: 45.5%;
+    right: 45.5%; 
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto{
+    position: absolute; 
+    top: 25%;
+    left: 24%; 
+    right: 24%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto1{
+    position: absolute; 
+    top: 25%; 
+    left: 34.5%; 
+    right: 34.5%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+

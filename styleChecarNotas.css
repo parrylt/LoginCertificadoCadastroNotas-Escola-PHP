@@ -1,0 +1,81 @@
+body{
+    background-image: url("17.jpg");
+    background-size: cover;
+}
+
+#titulo{
+    position: absolute; 
+    top: 9%; 
+    left: 45.7%;
+    right: 45.7%; 
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto{
+    position: absolute; 
+    top: 22%;
+    left: 24%; 
+    right: 24%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto1{
+    position: absolute; 
+    top: 25%; 
+    left: 34.5%; 
+    right: 34.5%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+}
+
+#texto2{
+    position: absolute; 
+    top: 120%; 
+    left: 2%; 
+    right: 2%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+}
+
+#texto3{
+    position: absolute; 
+    top: 120%; 
+    left: 2%; 
+    right: 2%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+}
+
+#txtCert{
+    position: absolute; 
+    top: 260%; 
+    left: 27.4%; 
+    right: 27.4%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+    font-size: xx-large;
+}
+
+#txtCertNome{
+    position: absolute; 
+    top: 270%; 
+    left: 27.4%; 
+    right: 27.4%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+    font-size: xx-large;
+}
+
+#btnChecar{
+    position: absolute; 
+    top: 75%; 
+    left: 40%;
+    right: 40%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}

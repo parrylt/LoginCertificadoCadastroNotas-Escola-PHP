@@ -1,0 +1,40 @@
+body{
+    background-image: url("17.jpg");
+    background-size: cover;
+}
+
+#titulo{
+    position: absolute; 
+    top: 9%; 
+    left: 45.8%;
+    right: 45.8%; 
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto{
+    position: absolute; 
+    top: 25%; 
+    left: 35%; 
+    right: 35%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#btnLoginProfessor{
+    position: absolute; 
+    top: 70%; 
+    left: 38%;
+    right: 38%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#btnLoginAluno{
+    position: absolute; 
+    top: 70%; 
+    left: 38%;
+    right: 38%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}

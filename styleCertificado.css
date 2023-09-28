@@ -1,0 +1,54 @@
+body{
+    background-image: url("17.jpg");
+    background-size: cover;
+}
+
+#titulo{
+    position: absolute; 
+    top: 9%; 
+    left: 42.8%;
+    right: 42.8%; 
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#texto{
+    position: absolute; 
+    top: 22%;
+    left: 42%; 
+    right: 42%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+
+#texto1{
+    position: absolute; 
+    top: 50%; 
+    left: 25%; 
+    right: 25%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#btnImprimir{
+    position: absolute; 
+    top: 90%; 
+    left: 43%;
+    right: 43%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+#btnChecar{
+    position: absolute; 
+    top: 60%; 
+    left: 32%;
+    right: 32%;
+    transform: translate (-50%, -50%);
+    font-family: 'Sora', sans-serif;
+}
+
+.paraEsconder {
+    display: none;
+}
